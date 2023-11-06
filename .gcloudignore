@@ -1,0 +1,7 @@
+# This is a comment
+.git
+.gitignore
+node_modules/
+.env
+*.pyc
+*__pycache__
