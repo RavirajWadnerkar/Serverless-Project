@@ -41,4 +41,4 @@ For anyone to use it and modify it, you need to replace the curl https://us-cent
 
 ![image](https://github.com/RavirajWadnerkar/Serverless-Project/assets/47893967/ad38d442-1d34-4de8-83e6-d61338e23027)
 
-![image](https://github.com/RavirajWadnerkar/Serverless-Project/assets/47893967/6509e88d-057b-40e9-884a-a7015f0689b7)
+![image](https://github.com/RavirajWadnerkar/Serverless-Project/assets/47893967/c4444ba8-8700-4d10-9443-6a8640c94ad0)
